@@ -128,3 +128,7 @@ https://www.napoleon.org/histoire-des-2-empires/articles/legypte-dans-le-paris-n
 - Il y donna cours au style retour d’Égypte, d’abord à la  fontaine du Châtelet, une des plus spectaculaires, en forme de colonne  palmiforme striée de bagues gravées aux noms de victoires, et supportant une figure de Victoire, oeuvre de Boizot h
   ttps://www.napoleon.org/histoire-des-2-empires/articles/legypte-dans-le-paris-napoleonien
 - Le Second Empire, juchant cette fontaine primitive sur un nouveau socle orné de sphinx, accentuera le caractère égyptien de la fontaine.
+
+
+
+
