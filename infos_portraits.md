@@ -155,9 +155,11 @@ Autres qui seraient pertinents dans cette liste : maréchaux Oudinot, Soult et 
 
 
 
+Le choix des portraits ne semble pas s'attribuer à la provenance des généraux, les départements qu'ils représentent se répétant à quelques occasions et le choix de Poniatowski, un prince étranger, le choix basé sur la provenance française est aussi écarté. Si l'importance ou la compétence des généraux choisis est un facteur du choix, des absences sont remarquées, notamment celles des maréchaux Berthier, Oudinot, Soult et Davout, et si l'importance familiale est à prendre en compte à en juger par l'inclusion du prince Eugène, celle de Murat est aussi remarquable. On pourrait croire ainsi que le statut du général au moment des Cents Jours pourrait jouer sur la réputation admise pour ce palmarès, mais la présence de 
 
+est alors inexplicable.
 
-
+Le palmarès semble aussi mettre l'accent sur la mort au combat, à en croire par la présence de plusieurs généraux révolutionnaires. La parité entre généraux révolutionnaires et généraux d'empire pourrait aussi être observée. Dans tous les cas, le choix des généraux à représenter reste énigmatique.
 
 
 
