@@ -32,3 +32,53 @@ p.88 dont Galerie des batailles** 33 tableaux commandés pour la galerie, 5 bata
 
 101 « Instead of flattering government power, the production of official battle paintings for Versailles exposed the regime to charges that it was debasing art in the name of propaganda, producing vapid battle paintings without substance, and advancing a political agenda in which the values of material proliferation and the expansion of the industrial economy took precedence over the cultivation of military glory .»
 
+
+
+## Gaehtgens, Thomas W. *Versailles: de la résidence royale au Musée historique: la Galerie des batailles dans le Musée historique de Louis-Philippe*. Paris: A. Michel, 1981.
+
+p.42 la représentation de l'histoire de france à versailles renfermait un programme politique: légitmité du pouvoir de LP, protection et défense des acquis de la révolution:: acquis révolutionnaires=actes héroïques. Un discours un peu forcé, qui peine à camoufler sa manipulation politique.
+
+p.69 Jussieu et galerie historique* réforme instruction publique, galerie comme enseignement de l'histoire* sources possible : fastes de la nation française ou abbé gautier.
+
+Simon de Nantua 1818 par Jussieu (tirer lecons de l'histoire)
+
+cours d'histoire générale par tableaux* jussieu
+
+**p.75 les conditions artistiques de cette représentation** par tableaux de l'hsitoire:: des tableaux d'histoire:: un peu le meme discours. voir photos, sur choix illustrations cours d'histoire
+
+## Haudricourt, Ternisien d’. *Fastes de la nation française et des puissances alliées*. Paris: Gillé, fils, 1807. https://gallica.bnf.fr/ark:/12148/bpt6k961832.
+
+Pas concluant, la plupart des noms qui y sont pas**, les portraits reprennent pas iconographie présentée. Trop tôt?
+
+Augereau* (aréole)
+
+Bonaparte*  Napoléon (eylau)
+
+Berthier* Bernadotte bessieres
+
+Desaix (à cheval)
+
+Junot
+
+jourdan
+
+Kléber lefevre oudinot
+
+
+
+Gavard, Charles (1794-1871). *Galeries historiques du palais de Versailles. Tome 7 / [par C. Gavard]*, 1839. https://gallica.bnf.fr/ark:/12148/bpt6k279565.
+
+Par exemple, par maréchaux, donc généraux pas importants** et berthier et tout.
+
+
+
+
+
+-manuel
+
+Historiographie entrepise d'histoire
+
+histoire et militaire
+
+portrait et peinture d'histoire**
+
