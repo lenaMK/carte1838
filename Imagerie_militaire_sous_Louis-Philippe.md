@@ -50,7 +50,7 @@ cours d'histoire générale par tableaux* jussieu
 
 Pas concluant, la plupart des noms qui y sont pas**, les portraits reprennent pas iconographie présentée. Trop tôt?
 
-Augereau* (aréole)
+Augereau* (arcole)
 
 Bonaparte*  Napoléon (eylau)
 
@@ -66,19 +66,19 @@ Kléber lefevre oudinot
 
 
 
-Gavard, Charles (1794-1871). *Galeries historiques du palais de Versailles. Tome 7 / [par C. Gavard]*, 1839. https://gallica.bnf.fr/ark:/12148/bpt6k279565.
+## Gavard, Charles (1794-1871). *Galeries historiques du palais de Versailles. Tome 7 / [par C. Gavard]*, 1839. https://gallica.bnf.fr/ark:/12148/bpt6k279565.
 
-Par exemple, par maréchaux, donc généraux pas importants** et berthier et tout.
-
-
+Par exemple, par maréchaux, donc généraux pas importants**
 
 
 
--manuel
 
-Historiographie entrepise d'histoire
 
-histoire et militaire
+## Peinture d'histoire et portrait / entreprise historiographique de la carte
 
-portrait et peinture d'histoire**
+
+
+
+
+
 
