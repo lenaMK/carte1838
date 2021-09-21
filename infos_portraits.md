@@ -157,7 +157,13 @@ Autres qui seraient pertinents dans cette liste : maréchaux Oudinot, Soult et 
 
 Le choix des portraits ne semble pas s'attribuer à la provenance des généraux, les départements qu'ils représentent se répétant à quelques occasions. Par ailleurs, la présence de Poniatowski, un prince étranger, écarte aussi un choix basé sur la provenance française. Si l'importance ou la compétence des généraux choisis est un facteur du choix, des absences sont remarquées, notamment celles des maréchaux Oudinot, Soult et Davout, et si l'importance familiale est à prendre en compte à en juger par l'inclusion du prince Eugène, celle de Murat est aussi remarquable. On pourrait croire ainsi que le statut du général au moment des Cents Jours pourrait jouer sur la réputation admise pour ce palmarès, mais la présence de Mortier, Masséna, de Berthier et d'Augereau est alors inexplicable.
 
-Le palmarès semble aussi mettre l'accent sur la mort au combat, à en croire par la présence de plusieurs généraux révolutionnaires. La parité entre généraux révolutionnaires et généraux d'Empire pourrait aussi être observée. Dans tous les cas, le choix des généraux à représenter reste énigmatique. Pourrait-il être attaché à un document, pamphlet, ou livre d'histoire publié dans les années de la réalistion de la carte, ou est-il simplement le fruit des inclinations personnelles de l'auteur?
+Le palmarès semble aussi mettre l'accent sur la mort au combat, à en croire par la présence de plusieurs généraux révolutionnaires. La parité entre généraux révolutionnaires et généraux d'Empire pourrait aussi être observée. Dans tous les cas, le choix des généraux à représenter reste énigmatique. 
+
+La question de la façon dont il sont ordonnés: par âge, ne fonctionne pas vraiment, ni date de naissance ou de mort, ni par campagnes respectives (généraux révolutionnaires ne sont pas ensemble)
+
+Les batailles représentées par les monuments (Marceau et Hoche n'ont participé à aucune mentionnée).
+
+Pourrait-il être attaché à un document, pamphlet, ou livre d'histoire publié dans les années de la réalistion de la carte, ou est-il simplement le fruit des inclinations personnelles de l'auteur?
 
 
 
