@@ -54,5 +54,51 @@ Sur la cartographie thématique, période transitoire du 18e :
 p.33-34 « B.  Petchenik, pour définir la  carte thématique,  s'inspire  des  théories  de  Pia-get  sur la  construction intellectuelle  de l'espace.  La carte  générale  traduirait l'expérience de« se  trouver en un lieu 1> (being  in place)  et la  carte thématique 
 exprimerait  <1 la  connaissance  à propos  de  l'espace  1> (knowing  about  space). Dans  le  premier  cas,  la  carte  désigne  des endroits  :  ici  se  trouve ...  ici  se trouve ...  Dans le  second cas  elle  indique des  distributions,  renseigne  sur les variations spatiales intrinsèques (interna! spatial variations) d'un  phénomène. Référence  et  connaissance  correspondraient  alors  à deux  états  graduels de l'expérience de l'espace, le second demandant un stade de développement  cognitif plus  avancé.  La  théorie  n'est pas  des  plus  satisfaisantes,  car elle  repose moins  sur la  carte elle-même que  sur son contexte ou son propos,  et celui-ci n'est pas toujours  connu avec  évidence,  surtout dans le  cas  de  cartes  anciennes.  Par ailleurs,  le  cartographe  n'expérimente  pas  le monde à la  manière de  l'enfant.  Il  possède une connaissance préalable de  ce qu'il  localise, et  mêle souvent  l'expérience  du  in et  du  about  space. On approche cependant avec  Petchenik de  cette idée que 1' esprit sélectif ne  suffit  pas  à  définir  la  carte  thématique  :  l'objet  thématique  lui-même  relève d'une construction intellectuelle,  il  n'est pas à proprement parler visible,  circonscrit  et  identifiable  dans  le paysage, il est  plus abstrait. Ainsi, pour reprendre une expression de  P.  Claval,  il  s'agit, par la  démarche thématique, de  <1 faire  apparaître dans le  plan des  données qui s'inscrivent dans une autre dimension que  celles  de la  surface  de  la  terre  ». E.  Clutton précise encore  : « the  thematic  map presents  a mental ordering of space,  generalising and arranging beyond  the  limitations  of the  original  data  to  offer  a visual  image  of more  abstract truths 1>  »
 
+## Black, Regards sur le Monde Histoire des cartes
 
+[traduction de l’anglais, Christine Chareyre]. Octopus /Hachette-Livre pour la traduction et l'adaptation française : Boulogne
+ISBN: 2-0126-0262-2
+
+#### Sommaire
+
+Préface, introduction
+
+1. Le monde vu par les anciens
+2. Le siècle des Lumières
+3. Commerce et colonisation
+4. L'âge moderne
+
+#### __Napoléon redessine l'Europe__
+
+p.89
+Révolution française 1789
+Succession de guerres 1792- défaite de Napoléon 1815
+--> donne un nouvel élan à la cartographie
+
+- les conflits étaient suivis et préparés sur les cartess
+- géographes militaires français, ou ingénieurs-géographes, accompagnèrent l'avancée des armées et établirent de nombreuses cartes des régions dans lesquelles se aisaent les opérations depuis le Portugal jusqu'à la Russie
+  Entièrement remodelées, le frontières intérieures et extérieures de la France devaient être cartographiées
+- création des départements entraîne création de nouvelles cartes
+  p.90
+- réorganisation de la France avait suscité un débat opposant utopistes et pragmatistes
+  utopistes:
+  système géogétrique, emploi de carrés dessinées d'après les lignes de latitude et longitude, comme si la France était une colonie de fraiche date
+  pragmatistes:
+  propositions avec régions à population égale
+- Admission d'une certaine diversité (variation de superficie de 302  à 342 lieues carrées)
+- frontières provinciales existantes servient de cardre à la création de nouveaux départements, ou c'étaient les intérêt politiques qui jouaient un rôle majeur dans la répartition du territoire
+
+__Radicaux et révolutionnaires__
+p.90
+
+- victoires françaises à l'extérieur du pays entraînaient de vastes remaniements territoriaux et la création de nouveaux Etats
+- la _légitimité de ces Etats dépendait alors en partie des cartes qui en étaient dressées, et qui servaient à affirmer leur identité_
+  Emploi des cartes continue à s'intensifier au cours du XVIIIe
+  _propriétaires utilisaient des cartes pour clôturer les terres communes et les partager_
+- Enclosure: nécessaite le levé détaillé des terres (informations précises s'imposaient du point de vue économique et légal)
+- Pour établi une évaluation des terres et planifier la région, il fallait établir le sdroits de propriété, coisir les terres qui formeraient les nouvelles pracelles, déterminer l'itinéraire des routes et des cours d'eau
+- la forme géométrique des champs et les lignes droites des routes témoignaient du travail es arpenteurs, ce qui reflétait _l'impact de la cartogrpahie comme moyen d'organisation et de planification du territoiie_
+
+- public familiarisé avec les cartes --> puzzles
+  John Wallis, _Le Tour d'Angleterre de du pays de Galles: un passe-temps géogrpahique_ 1794
 
