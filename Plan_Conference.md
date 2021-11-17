@@ -19,15 +19,15 @@
 
   
 
-  #### Carte:
+#### Carte:
 
-  	- carte/division départements
-  	- monuments
-   - portraits (frise?)
-     - biographie (origine?+politique)
-     - Iconographie (portrait)
-  - Paratexte (titre contradictoire, ancien qui ne tient pas compte d'une histoire pré-révolution)
-  - Apparat/para-icongraphie, images dans l'image
+- carte/division départements
+- monuments
+- portraits (frise?)
+  - biographie (origine?+politique)
+  - Iconographie (portrait)
+- Paratexte (titre contradictoire, ancien qui ne tient pas compte d'une histoire pré-révolution)
+- Apparat/para-icongraphie, images dans l'image
 
 ​				
 
