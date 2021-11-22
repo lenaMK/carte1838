@@ -55,7 +55,7 @@ Très rare et belle carte de la France divisée par départements, dressée par 
 
 recherche: 
 
-
+Cartes de la bibliothèque du Prince Roland Bonaparte*
 
 
 
@@ -68,3 +68,19 @@ autre carte (pas de division en départements. Chemin de fer)
 est-ce qu'il y a d'autres différences? 
 
 - la qualité semble vraiment moins bonne: fonds des portraits plus "flous", particulièrement celui de Napoléon	
+- par Béatrice: la couleur*
+
+
+
+## (Jean-)Victor Adam
+
+* dans les notices de BNF, une oeuvre gravée soit orléaniste, soit bonapartiste (les deux bonaparte), représentation d'événements historiques. 
+* élève de regnault et de Meynier.
+* Commandes par louis-philippe (?) pour versailles de batailles de la révolution (expliquerait accent révolution?) : 
+  *  [Bataille de Castiglione, 5 août 1796](http://collections.chateauversailles.fr/#263489de-2b99-4774-997b-cb4caf420875)
+  *  [Bataille de Neuwied, 18 avril 1797](http://collections.chateauversailles.fr/#c174735c-a83e-4dae-a7f8-59dfd3d6203f)
+  *  [Combat de Varoux, 27 novembre 1792](http://collections.chateauversailles.fr/#be6b2abe-2283-4439-ad57-f0e86fcc609b)
+  * [aquarelle Ratisbonne est enlevé de force, le 23 avril 1809](http://collections.chateauversailles.fr/#042fd57f-572f-4938-b6f7-1fcefe41a8d8)
+* plus un [portrait](http://collections.chateauversailles.fr/#82f554a9-69b3-4699-b862-69897a738ed1) où il aurait dessiné le général Lamarque à l'occasion de sa mort.
+* 
+
