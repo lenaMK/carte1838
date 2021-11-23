@@ -68,7 +68,8 @@ autre carte (pas de division en départements. Chemin de fer)
 est-ce qu'il y a d'autres différences? 
 
 - la qualité semble vraiment moins bonne: fonds des portraits plus "flous", particulièrement celui de Napoléon	
-- par Béatrice: la couleur*
+
+  
 
 
 
