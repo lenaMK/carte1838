@@ -55,7 +55,7 @@ Très rare et belle carte de la France divisée par départements, dressée par 
 
 recherche: 
 
-Cartes de la bibliothèque du Prince Roland Bonaparte*
+https://cartogallica.hypotheses.org/1102 : Carte dans la collection du Prince Roland Bonaparte, donnée en 1925 à la Société géographique en 1925, puis donnée en fonds à la BNF (date inconnue: Cartes de la bibliothèque du Prince Roland Bonaparte*
 
 
 
@@ -63,7 +63,7 @@ Cartes de la bibliothèque du Prince Roland Bonaparte*
 
 https://gallica.bnf.fr/ark:/12148/btv1b530831344
 
-autre carte (pas de division en départements. Chemin de fer)
+autre carte (pas de division en départements. (Chemin de fer)
 
 est-ce qu'il y a d'autres différences? 
 
@@ -83,5 +83,6 @@ est-ce qu'il y a d'autres différences?
   *  [Combat de Varoux, 27 novembre 1792](http://collections.chateauversailles.fr/#be6b2abe-2283-4439-ad57-f0e86fcc609b)
   * [aquarelle Ratisbonne est enlevé de force, le 23 avril 1809](http://collections.chateauversailles.fr/#042fd57f-572f-4938-b6f7-1fcefe41a8d8)
 * plus un [portrait](http://collections.chateauversailles.fr/#82f554a9-69b3-4699-b862-69897a738ed1) où il aurait dessiné le général Lamarque à l'occasion de sa mort.
-* 
+* Voir liste des gravures publiée pour l'ouvrage *Un mois de 1830 : ou mémorables journées de juillet et d'août*
+* Conclusion: très engagé dans la représentation du politique dans les années 1830, surtout pour ce qui a trait à la révolution de juillet. Une oeuvre gravée qui est publiée, vendue* 
 
