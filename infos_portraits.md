@@ -22,7 +22,7 @@ Bâton de maréchal, grand croix légion d'honneur, un cadavre, soldats à l'arr
 
 Symbolisme: code Napoléon, Sphinx, laurier, canon, répétition colonne Vendôme, 
 
-## Eugène
+## Eugène 
 
 RUSSIE
 
@@ -40,7 +40,7 @@ général d'infanterie, grand-croix légion d'honneur, soldats arrière-plan, d�
 
 Grand officier légion d'honneur (sous l'Empire), tient ordre, cavaliers à l'arrière, sur une colline, gros machin à l'arrière(?)
 
-## Masséna
+## Masséna 
 
 ?
 
@@ -86,7 +86,7 @@ Uniforme de chasseur à cheval, armée en rang à l'arrière-plan, surveillée p
 
 ​			p.33 Uniforme de chasseur à cheval de la révolution (1794), gilet et dolman
 
-## Lasalle
+## Lasalle 
 
 STETTIN 1806
 
@@ -104,13 +104,13 @@ Sabre, ordre de capitulation, uniforme de hussard, forteresse de Stettin à l'ar
 
 Sabre, uniforme de général révolutionnaire, rocher, canon et soldats, cloture.
 
-## Desaix
+## Desaix 
 
 ÉGYPTE
 
 Bataille des pyramides (son fait d'armes), uniforme général révolution, cheval sans cavalier, deux palmiers, une pyramide, des chapeaux de soldats (ombragés)
 
-## Poniatowski
+## Poniatowski 
 
 ?
 
@@ -128,7 +128,7 @@ Manteau, uniforme d'hiver, assis/appuyé sur canon, grand croix légion d'honneu
 
 Uniforme général révolution, 2 palmiers, tentes, soldats en rang, 2 pyramides
 
-## Augereau
+## Augereau 
 
 ARCOLE, première campagne d'Italie (1796)
 
@@ -206,6 +206,50 @@ Augereau -Lodi
 Dans tous les cas, le choix des généraux à représenter reste énigmatique. Pourrait-il être attaché à un document, pamphlet, ou livre d'histoire publié dans les années de la réalistion de la carte, ou est-il simplement le fruit des inclinations personnelles de l'auteur? 
 
 
+
+
+
+### Iconographie
+
+Une iconogrpahie qui ne reprend pas de motifs connus tels que ceux vus dans des portraits officiels. Les portraits semblent être originaux.
+
+Choix pour chaque bonhomme d'un ou deux portraits de plein pied dont la chronologie soit coïncide avec la carte ou n'est pas trop éloignée, aussi souvent des portraits commandés par LP.
+
+Daumesnil, pas vraiment d'iconographie avant 1880's.
+
+
+
+### Actions glorieuses et faits d'armes
+
+[Eugène de Beauharnais](https://catalogue.bnf.fr/ark:/12148/cb40314747r)
+
+[Lasalle](https://catalogue.bnf.fr/ark:/12148/cb40314750n)
+
+[Maréchal MacDonald](https://catalogue.bnf.fr/ark:/12148/cb403147510) x
+
+[Desaix](https://catalogue.bnf.fr/ark:/12148/cb40314752b)
+
+[Davout](https://catalogue.bnf.fr/ark:/12148/cb40314753p) x
+
+[Victor](https://catalogue.bnf.fr/ark:/12148/cb403147541) x
+
+[Soult](https://catalogue.bnf.fr/ark:/12148/cb40314755c) x
+
+[Poniatowski](https://catalogue.bnf.fr/ark:/12148/cb40314756q)
+
+[Rapp](https://catalogue.bnf.fr/ark:/12148/cb415111397) x
+
+[Pérignon](https://catalogue.bnf.fr/ark:/12148/cb40314758d) x
+
+[Oudinot](https://catalogue.bnf.fr/ark:/12148/cb40314759r) x
+
+[Augereau](https://catalogue.bnf.fr/ark:/12148/cb40314749f)
+
+[De l'armée d'Espagne](https://catalogue.bnf.fr/ark:/12148/cb41517131x) x
+
+Masséna 
+
+Cambronne 
 
 
 
