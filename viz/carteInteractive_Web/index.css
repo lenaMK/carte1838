@@ -2,7 +2,7 @@ body{
   padding: 50px;
 }
 header{
-  padding-bottom: 50px;
+  padding-top: 50px;
 }
 #bigGrid {
   display: grid;
