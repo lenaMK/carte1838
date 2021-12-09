@@ -1,20 +1,118 @@
-.chart rect {
-  fill: steelblue;
+body{
+  padding: 50px;
+}
+header{
+  padding-bottom: 50px;
+}
+#bigGrid {
+  display: grid;
+  grid-template-areas:
+    'p19 p20 p21 nap1 nap1 p2 p3 p4'
+    'p18 m1 carte carte carte carte m2 p5'
+    'p17 m1 carte carte carte carte m2 p6'
+    'p16 m1 carte carte carte carte m2 p7'
+    'p15 p14 p13 p12 p11 p10 p9 p8';
+  grid-gap: 10px;
+  width: 1200px;
+  height: 960px;
+  margin-bottom: 50px;
 }
 
-.chart text {
-  fill: black;
-  font: 10px sans-serif;
-  text-anchor: end;
+.nap {
+  border: solid lightblue 2px;
 }
 
-.axis path,
-.axis line {
-  fill: none;
-  stroke: #000;
-  shape-rendering: crispEdges;
+.p {
+  border: solid pink 2px;
+  width: 150px;
+  height: 192px
 }
 
-.x.axis path {
-  display: none;
+.m {
+  border: solid grey 2px;
+}
+
+#carte{
+  grid-area: carte;
+  border: solid green 2px;
+}
+
+#titreCarte{
+  height: 48px;
+  text-align: center;
+}
+#svgCarte{
+  border: solid greenyellow 2px;
+}
+#nap1{
+  grid-area: nap1;
+}
+
+#m1{
+  grid-area: m1;
+}
+
+#m2{
+  grid-area: m2
+}
+
+#p2 {
+  grid-area: p2;
+}
+#p3 {
+  grid-area: p3;
+}
+#p4 {
+  grid-area: p4;
+}
+#p5 {
+  grid-area: p5;
+}
+#p6 {
+  grid-area: p6;
+}
+#p7 {
+  grid-area: p7;
+}
+#p8 {
+  grid-area: p8;
+}
+#p9 {
+  grid-area: p9;
+}
+#p10 {
+  grid-area: p10;
+}
+#p11 {
+  grid-area: p11;
+}
+#p12 {
+  grid-area: p12;
+}
+#p13 {
+  grid-area: p13;
+}
+#p14 {
+  grid-area: p14;
+}
+#p15 {
+  grid-area: p15;
+}
+#p16 {
+  grid-area: p16;
+}
+#p17 {
+  grid-area: p17;
+}
+#p18 {
+  grid-area: p18;
+}
+#p19 {
+  grid-area: p19;
+}
+#p20 {
+  grid-area: p20;
+}
+#p21 {
+  grid-area: p21;
 }
