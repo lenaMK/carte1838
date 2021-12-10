@@ -3,12 +3,60 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
-  <title>Distribution des projets CONBAVIL</title>
+  <title>Expérimentation carte 1838</title>
   <link rel="stylesheet" href="index.css">
 </head>
 <body>
-  <h1> Carte des départements Français et densité des projets CONBAVIL </h1>
-  <svg id="carte"></svg>
+  <div id="bigGrid">
+    <!-- top -->
+    <div class="p" id="p19">Foy</div>
+    <div class="p" id="p20">Ney</div>
+    <div class="p" id="p21">Lannes</div>
+    <div class="nap" id="nap1">Napoléon</div>
+    <div class="p" id="p2">Prince Eugène</div>
+    <div class="p" id="p3">Mortier</div>
+    <div class="p" id="p4">Lamarque</div>
+
+    <!--bord gauche-->
+    <div class="p" id="p18">Augereau</div>
+    <div class="p" id="p17">Kleber</div>
+    <div class="p" id="p16">Lefebvre</div>
+
+    <!--colonne 1-->
+    <div class="m" id="m1">Colonne de la Grande Armée d'Austerlitz (Vendôme)</div>
+
+    <!-- carte -->
+    <div id="carte">
+      <div id="titreCarte">La France actuelle et ses anciens défenseurs</div>
+      <svg id="svgCarte" width="640px" height="528px"></svg>
+    </div>
+
+    <!--colonne 2-->
+    <div class="m" id="m2">Fontaine du palmier (de la victoire)</div>
+
+    <!-- bord droit-->
+    <div class="p" id="p5">Massena</div>
+    <div class="p" id="p6">Cambronne</div>
+    <div class="p" id="p7">Brune</div>
+
+    <!-- bottom-->
+    <div class="p" id="p15">Poniatowski</div>
+    <div class="p" id="p14">Desaix</div>
+    <div class="p" id="p13">Hoche</div>
+    <div class="p" id="p12">Lasalle</div>
+    <div class="p" id="p11">Marceau</div>
+    <div class="p" id="p10">Berthier</div>
+    <div class="p" id="p9">Junot</div>
+    <div class="p" id="p8">Daumesnil</div>
+  </div>
+
+  <header>
+    <h1>La France actuelle et ses anciens défenseurs.</h1> 
+    <h3>Carte de France physique et administrative / dressée par P. Tardieu ; Victor Adam del. ; Montaut et Houiste sculp. (1838)</h3>
+    <p>Tardieu, Pierre Antoine (1784-1869). Cartographe; Adam, Victor (1801-1866). Dessinateur; Montaut, Gabriel Xavier de (1798-185.). Graveur; Houiste, François. Graveur</p>
+    <p>Binet (Paris) éditeur. Format :  1 carte : ill., tracés col. ; 26 x 36 cm, sur cuvette 55 x 70,5 cm, sur flle 63 x 76 cm </p>
+    <p>Source  :  Bibliothèque nationale de France, département Cartes et plans, GE C-6241. Référence <a href="https://gallica.bnf.fr/ark:/12148/btv1b53083503z.r=btv1b53083503z" target="_blank">Gallica</a>, lié au <a href="http://catalogue.bnf.fr/ark:/12148/cb407478294">catalogue de la BNF</a>.</p>
+  </header>
 
   <script src="https://d3js.org/d3.v5.min.js"></script>
   <script src="./index.js"></script>

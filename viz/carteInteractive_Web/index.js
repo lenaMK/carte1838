@@ -11,20 +11,20 @@ date: 11 january 2019 [original], new work june 2021
 */
 var index = {};
 
-var margin = {top: 20, right: 30, bottom: 30, left: 40},
-  width = 1060 - margin.left - margin.right,
-  height = 800 - margin.top - margin.bottom;
+const svg = d3.select("#svgCarte")
+const width = svg.style("width").slice(0, -2)
+const height = svg.style("height").slice(0, -2)
 
-const svg = d3.select("#carte")
-  .attr("width", width + margin.left + margin.right)
-  .attr("height", height + margin.top + margin.bottom);
+console.log("carte width " + width)
+
+console.log("carte height " + height)
     
-const domain = [0, 825];
+const domain = [0, width];
 const color = d3.scaleLinear()
   .domain(domain)
   .interpolate(() => d3.interpolateGreens);
 const path = d3.geoPath();
-
+/*
 function handleMouseOver(d, i){
   //changes color on mouseOver
   d3.select(this)
@@ -65,13 +65,13 @@ function handleMouseOut(d,i){
 function handleClick(d,i){
   console.log(d.properties.nom + ' : ' + index[d.properties.code].length + ' délibérations')
 }
-
+*/
 function projection(data){
   
   const projection = d3.geoConicConformal()
     .center([2.454071, 46.279229]) // Center on France
     .scale(500)
-    .fitSize([width, height], data);
+    .fitSize([480, 430], data);
 
   path.projection(projection);
     
@@ -79,27 +79,29 @@ function projection(data){
 }
 
 
-function nbDelib(dpt){
-  
-
-}
-
-
-function map(geojson, index){
+function map(geojson){
   console.timeEnd('json');
 
   projection(geojson);
+
+  svg.append("image")
+  .attr("xlink:href", "../../img/fondCarte1838.png")
+  .attr("x", -90)
+  .attr("y", -50)
+  .attr("width", width)
+  .attr("height", height)
+  .attr("id", "fillImage");
 
 
   svg.selectAll("path")
     .data(geojson.features)
     .enter().append("path")
     .attr("d", path)
-    .attr('fill', d => color(index[d.properties.code].length))
-    .attr('stroke', 'white')
+    .attr('fill', 'transparent') /*d => color(index[d.properties.code].length) */
+    .attr('stroke', 'black')/*
     .on("mouseover", handleMouseOver)
     .on("mouseout", handleMouseOut)
-    .on("click", handleClick);
+    .on("click", handleClick);*/
 
   var labels = svg.append('g').attr('class', 'labels');
 
@@ -113,6 +115,7 @@ function map(geojson, index){
       })
       .attr("id", (d => ("dpt"+d.properties.code)))
       .style('text-anchor', 'middle')
+      .style('font-size', '9px')
       .style('font-family', 'sans-serif')
       .text(d => d.properties.nom);
 
@@ -124,22 +127,11 @@ console.time('json');
 console.time('projection');
 
 Promise.all([
-  d3.json('../../data/geo/departements-version-simplifiee.geojson'),
-  d3.json('../../data/conbavil.json')
-]).then(([geojson, data]) => {
-  data.forEach(delib => {
-    var dpts = delib.numDepartement || "00";
-    dpts.split(";").forEach(dpt => {
-      //attention séparer départements multiples 
-      if (!(dpt in index))
-        index[dpt] = [];
+  d3.json('../../data/departements-version-simplifiee.geojson')
+]).then(([geojson]) => {
 
-      index[dpt].push(delib);
-    })
-    
-  })
-  console.log(index);
-  map(geojson, index);
+  map(geojson);
+s
 }).catch(function(error) {
   console.log(error);
 });
@@ -147,8 +139,6 @@ Promise.all([
 
 
 
-  /*
   svg.call(d3.zoom().on("zoom", function () {
           svg.attr("transform", d3.event.transform)
   }))
-  */
