@@ -42,7 +42,6 @@ header{
   text-align: center;
 }
 #svgCarte{
-  border: solid greenyellow 2px;
 }
 #nap1{
   grid-area: nap1;
