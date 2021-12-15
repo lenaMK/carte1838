@@ -10,36 +10,43 @@
 
 ### Introduction
 
-
+- Nos spécialités respectives et comment on les a jumelées. (Lena, Béatrice)
+- Présentation de la carte.
 
 ### Méthode
 
-- approche iconographique d'une carte/cartographie critique
-- Usage/utilité de la carte / décoration?
+- Approche iconographique d'une carte/cartographie critique
+- carte comme trace d'une mentalité/d'une politique (Chapel)
 - structuration de données et du savoir
 
 ### Contexte
 
-- Cartographie thématique + exemples 19e siècle.
+- Cartographie thématique + exemples 19e siècle. (Lena)
   - matérialité de la carte/Technique/estampe
-- Contexte historique - politique
-  - Louis-Philippe 1830's représentations de l'histoire napoléonienne
-  - Iconographie militariste
+- Contexte historique - politique (Béatrice)
+  - Louis-Philippe 1830's représentations de l'histoire napoléonienne, iconographie militariste
+  - Estampes et contexte de publication de la carte (usage + infos bnf)
+    - Binet
+    - Adam
+    - Bulla 
 
 ### Analyse de la carte
 
 #### Parties - détails
 
-- carte/division départements
-- monuments
-- portraits (frise?)
+- carte/division départements (Lena)
+- monuments (Béatrice)
+- portraits (frise?) (Béatrice)
+  - Identité des portraits
   - biographie (origine?+politique)
   - Iconographie (portrait)
 - Paratexte (titre contradictoire, ancien qui ne tient pas compte d'une histoire pré-révolution)
-- Apparat/para-icongraphie, images dans l'image
+- Apparat/para-iconographie, images dans l'image
 
 #### Regard d'ensemble
 
-outil de travail: mini site avec visualisation textuelle de la carte* et liens vers infos.
+- Présentation de la visualisation. (Lena)
+- Avec visualisation: choix des bonhommes (Béatrice)
+- Avec visualisation: portraits iconographie (Béatrice)
 
 ### Conclusions?
