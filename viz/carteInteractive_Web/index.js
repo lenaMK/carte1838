@@ -78,6 +78,18 @@ function projection(data){
   console.timeEnd('projection');
 }
 
+function addInfo(data){
+  var g = 0;
+  while (g < 20 ){
+    var html = d3.select(`#p${g}`)
+    
+    /*add data[g]*/
+
+    console.log(data[g])
+
+    g++;
+  }
+}
 
 function map(geojson){
   console.timeEnd('json');
@@ -123,15 +135,21 @@ function map(geojson){
   return svg.node();
 }
 
+
 console.time('json');
 console.time('projection');
 
 Promise.all([
-  d3.json('../../data/departements-version-simplifiee.geojson')
-]).then(([geojson]) => {
+  d3.json('../../data/departements-version-simplifiee.geojson'),
+  d3.csv('../../data/DonneesGeneraux1.csv')
+]).then(([geojson, data]) => {
 
+  addInfo(data);
   map(geojson);
-s
+
+  d3.select("#fondCarte").on("clic", d => d3.select("#fillImage").classed("visible"))
+  /*to check in carteCommunes*/
+
 }).catch(function(error) {
   console.log(error);
 });

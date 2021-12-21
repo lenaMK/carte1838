@@ -1,0 +1,34 @@
+,"Nom, Prénom",Naissance,Mort,Statut,CauseMort*,MortGuerre,PeriodeMort,Ville,Departement,BataillePortrait,Legion,iconographie*,Trahison,trahison cause*
+19,"Foy, Maximilien Sébastien ",1775,1825,Général de division,,non,Après l'Empire,Ham,Aisne,[Fort],Grand officier,"artillerie (général d'artillerie), tient un document roulé (trop petit pour carte?), pointe le canon. grand officier légion d'honneur",non,"non, waterloo"
+20,"Ney, Michel",1769,1815,Maréchal,Exécuté après Waterloo,non,Empire,Sarrelouis,Bas-Rhin [Moiselle],Russie,Grand-croix,"général de cavalerie, grand-croix légion d'honneur. Neige au sol, empreintes de pas? Charrette, soldats, manteau sur son uniforme.",non,"non, waterloo"
+21,"Lannes, Jean",1769,1809,Maréchal,mort à la bataille d'Essling,oui,Empire,Lectoure,Gers,,Grand-croix,"Bâton de maréchal, grand croix légion d'honneur, un cadavre, soldats à l'arrière-plan, genre de traineau, [débris de canon]",non,"non, mort"
+1,NAPOLÉON,1769,1821,Empereur,,non,Après l'Empire,Ajaccio,Corse,,Grand maître,,non,
+2,"De Beauharnais, Eugène",1781,1824,"Général de brigade, beau-fils de Napoléon, fils adoptif (fils de Joséphine), vice-roi d'Italie",,non,Après l'Empire,Paris,Paris,Russie,Grand-croix,"Manteau, soldats arrière-plan",non,/
+3,"Mortier, Édouard",1768,1835,Maréchal,,non,Après l'Empire,Cateau-Cambrésis,Inconnu,,Grand-croix,"général d'infanterie, grand-croix légion d'honneur, soldats arrière-plan, débris de canon?",oui,"oui, quitte Napoléon début campgane"
+4,"Lamarque, Jean Maximilien",1770,1832,Général de division,,non,Après l'Empire,Saint-Sever,Landes,,Grand officier,"Grand officier légion d'honneur (sous l'Empire), tient ordre, cavaliers à l'arrière, sur une colline, gros machin à l'arrière(?)",non,"non, vendée"
+5,"Masséna, André",1758,1817,Maréchal,,non,Après l'Empire,Nice,Var,,Grand-croix,"Essling? Explosion à l'arrière-plan/feu sur la droite, grand croix légion d'honneur, infanterie à l'arrière/drapeau, débris de canon",oui,oui
+6,"Cambronne, Pierre",1770,1842,Général de division,,non,Après l'Empire,Nantes,Loire inférieure,[Waterloo],Grand officier,"pas de chapeau, grand officier légion d'honneur, herbe/blé, 2 cadavres/charrette renversée, confrontation arrière-plan",non,"non, waterloo"
+7,"Brune, Guillaume",1763,1815,Maréchal,assassiné après l'abdication par royalistes,non,Empire,Brive-la-Gaillarde,Corrèze,[Stralsund],Grand-croix,"Carte sur la droite, arbre, gros machins sur la gauche, préparation d'un siège?",non,"non, se rattache à l'Empreur"
+8,"Daumesnil, Pierre",1776,1832,Lieutenant-général de cavalerie,,non,Après l'Empire,Périgueux,Dordogne,Défense fort de Vincennes ,Officier,"Jambe de bois depuis Wagram, officier légion d'honneur, canon, cloture (partie surlevée?), fort de Vincennes à l'arrière (ne ressemble pas au fort de Vincennes)",non,"non, défend Vincennes"
+9,"Junot, Jean Andoche",1771,1813,Général de division,défenestration (problèmes mentaux…),non,Empire,Bussy-le-Grand,Côte d'or,,Grand-croix,"Tonneau, carte, soldats bougent un canon à l'arrière-plan",non,"non, mort"
+10,"Berthier, Louis-Alexandre",1753,1815,"Maréchal, chef d'état major de Napoléon, minstre de la guerre",suicide (avant les cent jours),non,Empire,Versailles,Seine et Oise,,Grand-croix,"Deux cadavres, soldats à l'arrière-plan (qui flottent), tient le baton de maréchal, grand croix légion d'honneur",oui,oui
+11,"Marceau, François Séverin",1769,1796,Général de division,"mort pendant les guerres révolutionnaires, à Altenkirchen, armée sambre et meuse",oui,Révolution,Chartres,Seure et Loir,,non,"Uniforme de hussard, armée en rang à l'arrière-plan, surveillée par deux cavaliers",non,"non, mort"
+12,"Lasalle, Antoine Charles Louis de",1775,1809,Général de division,mort bataille de Wagram,oui,Empire,Metz,Moiselle,Stettin (1806),non,"Sabre, ordre de capitulation, uniforme de hussard, forteresse de Stettin à l'arrière-plan (ne ressemble pas à la forteresse?), régiment de hussard (iconographie empruntée à Gros )",non,"non, mort"
+13,"Hoche, Lazare",1768,1797,Général de division,"mort guerres révolutionnaires (tuberculose*), armée sambre et meuse",non,Révolution,Versailles,Seine et Oise,,non,"Sabre, uniforme de général révolutionnaire, rocher, canon et soldats, cloture.",non,"non, mort"
+14,"Desaix, Louis Charles Antoine",1768,1800,Général de division,mort bataille de Marengo,oui,Consulat,Ayat-sur-Sioule,Puy de Dôme,Égypte,non,"Bataille des pyramides (son fait d'armes), uniforme général révolution, cheval sans cavalier, deux palmiers, une pyramide, des chapeaux de soldats (ombragés)",non,"non, mort"
+15,"Poniatowski, Joseph-Antoine",1763,1813,Maréchal,mort bataille de Leipzig,oui,Empire,Inconnu,Inconnu,,Grand-croix,"Grand uniforme (princier): chapeau**, grand croix légion d'honneur, distinctions pas très visibles, cavalier à gauche.",non,"non, mort"
+16,"Lefebvre, François-Joseph",1755,1820,Maréchal,,non,Après l'Empire,Rouffach,Haut-Rhin,[Russie] [Pologne 1807],Grand-croix,"Manteau, uniforme d'hiver, assis/appuyé sur canon, grand croix légion d'honneur, ",non,"non, mais ne combat pas"
+17,"Kléber, Jean-Baptiste",1753,1800,Général de division,assassiné au Caire (commandait l'armée d'Égypte depuis le départ de Napoléon),oui,Consulat,Starsbourg,Grand duché de Bade,,non,"Uniforme général révolution, 2 palmiers, tentes, soldats en rang, 2 pyramides",non,"non, mort"
+18,"Augereau, Pierre",1757,1816,Maréchal,,non,Après l'Empire,Paris,Paris,Arcole,non,"Uniforme général de révolution, ponts, soldats et étendard, iconogrpahie empruntée à Charles Thénevin (1798, Versailles), elle-même à Gros (Bonaparte au pont d'Arcole)",oui,oui
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,Trahison,,,,
+,"Soult, Jean de Dieu",1769,1851,maréchal,,,,,Saint-Amans-la-Bastide (Tarn),"non, Waterloo",,,,
+,"Oudinot, Nicolas Charles",1767,1847,maréchal,,,,,Bar-le-Duc (Meuse),oui,,,,
+,"Bessières, Jean-Baptiste",1768,1813,maréchal,mort bataille de Weißenfels (cmapgane de Saxe),,,,Prayssac (Lot),"non, mort",,,,
+,"Davout, Louis Nicolas",1770,1823,maréchal,,,,,Annoux (Yonne),"non, Waterloo (nouveau ministre de la guerre)",,,,
+,"Suchet, Louis-Gabriel",1770,1826,maréchal,,,,,Lyon (Rhône),non,,,,
+,"Murat, Joachim",1767,1815,"maréchal, beau-frère de Napoléon, roi de Naples","Exécuté, insurrection de Naples",,,,Labastide-Fortunière (Lot),"oui, quitte l'armée après Leipzig",,,,
+,Saint-Hilaire,1766,1809,général de division,mort bataille d'Essling,,,,Ribemont (Aisne),"non, mort",,,,
+,Jourdan,1762,1833,maréchal,,,,,Limoges (Haute Vienne),non,,,,
+,Bernadotte,1763,1844,"maréchal, roi de Suède",,,,,Pau (Basses Pyrénées),"oui, devient roi de suède",,,,
