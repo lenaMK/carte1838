@@ -62,9 +62,9 @@
 
 #### Louis-Philippe 1830, représentations de l'histoire napoléonienne, iconographie militariste
 
-Le règne de Louis-Philippe inaugure le retour de Napoléon dans une imagerie officielle, censurée pendant la Restauration. L'appui public de sentiments bonapartistes pousse Louis-Philippe à exploiter la gloire militaire de Napoléon à son prorpre profit politique. 
+Le règne de Louis-Philippe inaugure le retour de Napoléon dans une imagerie officielle, censurée pendant la Restauration. L'appui public de sentiments bonapartistes pousse Louis-Philippe à exploiter la gloire militaire de Napoléon à son propre profit politique. 
 
-L'appropriation politique de l'image de Napoléon par LP est surtout évidente dans l'entreprise du Musée d'histoire de France de Versailles, chapeauté de très près par Louis-Philippe lui-même. Le musée ouvre ses portes en 1837, et présente un programme iconographique presque historiographique, dans différentes galeries à thèmes historiques. Des commandes sont faites pour meubler ces galeries, on forme un egalerie des aquarelles avec les aquarelles des ingénieurs-géogrpahes, et on dépoussière les Gros, Grard et girodet pour les remttre en valeur et présenter une histoire de la france où la victoire est un fil conducteur, célébrant  Révolution et Empire, plaçant la monarchie de Juillet en continuité avec ces régimes devenus maintenant nostalgiques. 
+L'appropriation politique de l'image de Napoléon par LP est surtout évidente dans l'entreprise du Musée d'histoire de France de Versailles, chapeauté de très près par Louis-Philippe lui-même. Le musée ouvre ses portes en 1837, et présente un programme iconographique presque historiographique, dans différentes galeries à thèmes historiques. Des commandes sont faites pour meubler ces galeries, on forme une galerie des aquarelles avec les aquarelles des ingénieurs-géographes, et on dépoussière les Gros, Gérard et girodet pour les remettre en valeur et présenter une histoire de la France où la victoire est un fil conducteur, célébrant Révolution et Empire, plaçant la monarchie de Juillet en continuité avec ces régimes devenus maintenant nostalgiques. 
 
 Cette iconogrpahie militariste se remarque surtout dans la galerie des batailles, où le génie militaire français est célébré, notamment par 5 batailles de Napoléon sur les 33 de l'histoire de LP. 
 
