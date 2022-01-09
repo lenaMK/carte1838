@@ -81,7 +81,7 @@ Carte comme outil de **représentation**. Dans notre cas, plus décoratif que fo
 - à l'échelle départementale: les départements sont petits et nombreux. 
 - qu'est-ce qui est alors représenté? l'espace national, la France comme unité. L'unité géographique est créée par la division des départements, soigneusement tracée à l'aquarelle. La division n'est pas tracée pour permettre de situer quel lieu se trouve dans quel département, donc elle sert d'avantage pour son effet graphique: elle forme l'hexagone ainsi qu'un maillage régulier de ce-dernier. Ce maillage régulier est le fruit de la Révolution <!-- est-il pour autant associé à Napoléon? je ne crois pas, j'associerais d'avantage les cartes de la France quand elle "débordait" de tous bords et tous côtés à Napoléon, et l'hexagone à la Révolution -->
 
-<!-- question existentielle et/ou stupide: Quand est-ce que Napoléon devient un acteur important dans la politique française? à partir de quelle année a-t-il du pouvoir? -->
+<!-- question existentielle et/ou stupide: Quand est-ce que Napoléon devient un acteur important dans la politique française? à partir de quelle année a-t-il du pouvoir? -->Béatrice:: 1795 ish**
 
 carte comme outil de **raisonnement** sur le territoire. 
 
