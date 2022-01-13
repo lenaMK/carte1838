@@ -106,6 +106,7 @@ function map(geojson){
   .attr("y", -50)
   .attr("width", width)
   .attr("height", height)
+  .attr("class", "invisible")
   .attr("id", "fillImage");
 
 
