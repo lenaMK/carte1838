@@ -197,7 +197,7 @@ Promise.all([
       //console.log(personne)
 
       var portraitCarte = d3.select(`#img${personne.Id}`)
-      portraitCarte.class("invisible", !portrait.classed("invisible"))
+      portraitCarte.classed("invisible", !portraitCarte.classed("invisible"))
 
     })
   })
