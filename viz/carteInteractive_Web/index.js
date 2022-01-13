@@ -179,14 +179,14 @@ Promise.all([
   //addInfo(data);
   map(geojson);
 
+  //affiche ou cache le fond de carte
   d3.select("#svgCarte").on("click", d => {
     var img = d3.select("#fillImage");
     
     img.classed("invisible", !img.classed("invisible"))
   })
-  /*to check in carteCommunes*/
 
-
+  //interaction pour chaque personne p (pas Napoléon)
   data.forEach(personne => {
     var zone = d3.select(`#p${personne.Id}`)
 
@@ -201,7 +201,25 @@ Promise.all([
 
     })
   })
-  
+
+  //interaction pour les monuments
+  var austerlitz = d3.select('#m1')
+  austerlitz.on("click", function () {
+
+    var texte = `<h3></h3>
+          <p>(${json.Naissance}-${json.Mort})</p>
+          
+          <img src="../../img/portraits/${json.Id}.jpg" height="300px">
+          <p><b>Statut</b>: ${json.Statut}</p>`
+    d3.select("#text").html(texte)
+    //console.log(personne)
+
+    var portraitCarte = d3.select(`#img${personne.Id}`)
+    portraitCarte.classed("invisible", !portraitCarte.classed("invisible"))
+
+  })
+
+  var palmier = d3.select('#m3')
   /*
   
   
