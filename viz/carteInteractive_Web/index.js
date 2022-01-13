@@ -206,27 +206,52 @@ Promise.all([
   var austerlitz = d3.select('#m1')
   austerlitz.on("click", function () {
 
-    var texte = `<h3></h3>
-          <p>(${json.Naissance}-${json.Mort})</p>
-          
-          <img src="../../img/portraits/${json.Id}.jpg" height="300px">
-          <p><b>Statut</b>: ${json.Statut}</p>`
+    var texte = `<h3>Colonne de la Grande Armée d'Austerlitz</h3>
+          <p>1810</p>
+          <p><b>Architectes</b>: Jean-Baptiste Lepère, Jacques Gondouin </p>
+          <p><b>Emplacement</b>: place Vendôme </p>
+          <img src="../../img/monuments/Austerlitz2.jpg" height="500px">`
     d3.select("#text").html(texte)
-    //console.log(personne)
+    //console.log(personne)*/
 
-    var portraitCarte = d3.select(`#img${personne.Id}`)
+    var portraitCarte = d3.select(`#imgM1`)
     portraitCarte.classed("invisible", !portraitCarte.classed("invisible"))
 
   })
 
-  var palmier = d3.select('#m3')
-  /*
-  
-  
-  
+  var palmier = d3.select('#m2')
+  palmier.on("click", function () {
+    var texte = `<h3>Fontaine du palmier</h3>
+          <p>1808</p>
+          <p><b>Sculpteurs</b>: Louis-Simon Boizot, Henri-Alfred Jacquemart  </p>
+          <p><b>Emplacement</b>: place du Châtelet </p>
+          <img src="../../img/monuments/Austerlitz2.jpg" height="500px">`
+    d3.select("#text").html(texte)
+    
+    var portraitCarte = d3.select(`#imgM2`)
+    portraitCarte.classed("invisible", !portraitCarte.classed("invisible"))
+    
+  })
 
-*/
 
+  var napo = d3.select('#nap1')
+  napo.on("click", function () {
+    var texte = `<h3>Napoléon</h3>
+          <p>(1769-1821)</p>
+          <p><b>Emplacement</b>: place du Châtelet </p>
+          <img src="../../img/monuments/Austerlitz2.jpg" height="500px">`
+    d3.select("#text").html(texte)
+    
+    var portraitCarte = d3.select(`#imgNap`)
+    portraitCarte.classed("invisible", !portraitCarte.classed("invisible"))
+    
+  })
+
+  //vide la zone de texte
+  d3.select('#text').on("click", function(d) {
+    console.log("on vide la zone de texte")
+    d3.select('#text').html("")
+  })
 
 }).catch(function(error) {
   console.log(error);
