@@ -1,7 +1,5 @@
 # « La France actuelle et ses anciens défenseurs » (1838). Cartographie et iconographie militariste sous Louis-Philippe 
 
-<!-- redemander la durée à Christina! -->
-
 
 
 ### Introduction
