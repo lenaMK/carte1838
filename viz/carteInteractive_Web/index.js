@@ -77,20 +77,24 @@ function projection(data){
     
   console.timeEnd('projection');
 }
-
+/*
 function addInfo(data){
-  var g = 0;
-  while (g < 20 ){
-    var html = d3.select(`#p${g}`)
-    
-    /*add data[g]*/
+  //g = 1 ==> Napoléon
+  var g = 2;
 
-    console.log(data[g])
+  while (g < 21 ){
+    var current = JSON.stringify(data[g-1]);
+    console.log(data[g-1])
+    console.log(current)
+
+    var html = d3.select(`#p${g}`)
+      .html(current)
+
 
     g++;
   }
 }
-
+*/
 function map(geojson){
   console.timeEnd('json');
 
@@ -139,16 +143,72 @@ function map(geojson){
 console.time('json');
 console.time('projection');
 
+
+function formatInfo(json){
+
+  console.log(json)
+  var text = `<h3>${json.Nom}</h3>
+              <p>(${json.Naissance}-${json.Mort})</p>
+              
+              <img src="../../img/portraits/${json.Id}.jpg" height="300px">
+              <p><b>Statut</b>: ${json.Statut}</p>
+              <p><b>Cause de mort</b>: ${json.CauseMort}</p>
+              <p><b>Mort à la guerre</b>: ${json.MortGuerre}</p>
+              <p><b>Période mort</b>: ${json.PeriodeMort}</p>
+              <p><b>Ville d'origine</b>: ${json.Ville}</p>
+              <p><b>Département d'origine</b>: ${json.Departement}</p>
+              <p><b>Bataille représentée</b>: ${json.BataillePortrait}</p>
+              <p><b>Légion d'honneur</b>: ${json.Legion}</p>
+              <p><b>Trahison</b>: ${json.Trahison}</p>
+              <p><b>Cause trahison</b>: ${json.trahisonCause}</p>
+              `
+
+  return text;
+}
+
+
 Promise.all([
   d3.json('../../data/departements-version-simplifiee.geojson'),
   d3.csv('../../data/DonneesGeneraux1.csv')
 ]).then(([geojson, data]) => {
 
-  addInfo(data);
+  data = data.sort((a, b) => {
+    return a.Id - b.Id;
+  })
+
+  //addInfo(data);
   map(geojson);
 
-  d3.select("#fondCarte").on("clic", d => d3.select("#fillImage").classed("visible"))
+  d3.select("#svgCarte").on("click", d => {
+    var img = d3.select("#fillImage");
+    
+    img.classed("invisible", !img.classed("invisible"))
+  })
   /*to check in carteCommunes*/
+
+
+  data.forEach(personne => {
+    var zone = d3.select(`#p${personne.Id}`)
+
+    zone.on("click", function () {
+
+      var texte = formatInfo(personne);
+      d3.select("#text").html(texte)
+      //console.log(personne)
+
+      var portraitCarte = d3.select(`#img${personne.Id}`)
+      portraitCarte.class("invisible", !portrait.classed("invisible"))
+
+    })
+  })
+  
+  /*
+  
+  
+  
+
+*/
+
 
 }).catch(function(error) {
   console.log(error);

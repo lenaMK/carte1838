@@ -1,4 +1,4 @@
-,"Nom, Prénom",Naissance,Mort,Statut,CauseMort*,MortGuerre,PeriodeMort,Ville,Departement,BataillePortrait,Legion,iconographie*,Trahison,trahison cause*
+Id,Nom,Naissance,Mort,Statut,CauseMort,MortGuerre,PeriodeMort,Ville,Departement,BataillePortrait,Legion,iconographie,Trahison,trahisonCause
 19,"Foy, Maximilien Sébastien ",1775,1825,Général de division,,non,Après l'Empire,Ham,Aisne,[Fort],Grand officier,"artillerie (général d'artillerie), tient un document roulé (trop petit pour carte?), pointe le canon. grand officier légion d'honneur",non,"non, waterloo"
 20,"Ney, Michel",1769,1815,Maréchal,Exécuté après Waterloo,non,Empire,Sarrelouis,Bas-Rhin [Moiselle],Russie,Grand-croix,"général de cavalerie, grand-croix légion d'honneur. Neige au sol, empreintes de pas? Charrette, soldats, manteau sur son uniforme.",non,"non, waterloo"
 21,"Lannes, Jean",1769,1809,Maréchal,mort à la bataille d'Essling,oui,Empire,Lectoure,Gers,,Grand-croix,"Bâton de maréchal, grand croix légion d'honneur, un cadavre, soldats à l'arrière-plan, genre de traineau, [débris de canon]",non,"non, mort"
@@ -20,15 +20,3 @@
 16,"Lefebvre, François-Joseph",1755,1820,Maréchal,,non,Après l'Empire,Rouffach,Haut-Rhin,[Russie] [Pologne 1807],Grand-croix,"Manteau, uniforme d'hiver, assis/appuyé sur canon, grand croix légion d'honneur, ",non,"non, mais ne combat pas"
 17,"Kléber, Jean-Baptiste",1753,1800,Général de division,assassiné au Caire (commandait l'armée d'Égypte depuis le départ de Napoléon),oui,Consulat,Starsbourg,Grand duché de Bade,,non,"Uniforme général révolution, 2 palmiers, tentes, soldats en rang, 2 pyramides",non,"non, mort"
 18,"Augereau, Pierre",1757,1816,Maréchal,,non,Après l'Empire,Paris,Paris,Arcole,non,"Uniforme général de révolution, ponts, soldats et étendard, iconogrpahie empruntée à Charles Thénevin (1798, Versailles), elle-même à Gros (Bonaparte au pont d'Arcole)",oui,oui
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,Trahison,,,,
-,"Soult, Jean de Dieu",1769,1851,maréchal,,,,,Saint-Amans-la-Bastide (Tarn),"non, Waterloo",,,,
-,"Oudinot, Nicolas Charles",1767,1847,maréchal,,,,,Bar-le-Duc (Meuse),oui,,,,
-,"Bessières, Jean-Baptiste",1768,1813,maréchal,mort bataille de Weißenfels (cmapgane de Saxe),,,,Prayssac (Lot),"non, mort",,,,
-,"Davout, Louis Nicolas",1770,1823,maréchal,,,,,Annoux (Yonne),"non, Waterloo (nouveau ministre de la guerre)",,,,
-,"Suchet, Louis-Gabriel",1770,1826,maréchal,,,,,Lyon (Rhône),non,,,,
-,"Murat, Joachim",1767,1815,"maréchal, beau-frère de Napoléon, roi de Naples","Exécuté, insurrection de Naples",,,,Labastide-Fortunière (Lot),"oui, quitte l'armée après Leipzig",,,,
-,Saint-Hilaire,1766,1809,général de division,mort bataille d'Essling,,,,Ribemont (Aisne),"non, mort",,,,
-,Jourdan,1762,1833,maréchal,,,,,Limoges (Haute Vienne),non,,,,
-,Bernadotte,1763,1844,"maréchal, roi de Suède",,,,,Pau (Basses Pyrénées),"oui, devient roi de suède",,,,

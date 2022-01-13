@@ -7,11 +7,11 @@ header{
 #bigGrid {
   display: grid;
   grid-template-areas:
-    'p19 p20 p21 nap1 nap1 p2 p3 p4'
-    'p18 m1 carte carte carte carte m2 p5'
-    'p17 m1 carte carte carte carte m2 p6'
-    'p16 m1 carte carte carte carte m2 p7'
-    'p15 p14 p13 p12 p11 p10 p9 p8';
+    'p19 p20 p21 nap1 nap1 p2 p3 p4 t'
+    'p18 m1 carte carte carte carte m2 p5 t'
+    'p17 m1 carte carte carte carte m2 p6 t'
+    'p16 m1 carte carte carte carte m2 p7 t'
+    'p15 p14 p13 p12 p11 p10 p9 p8 t';
   grid-gap: 10px;
   width: 1200px;
   height: 960px;
@@ -32,6 +32,10 @@ header{
   border: solid grey 2px;
 }
 
+.invisible {
+  visibility: hidden;
+}
+
 #carte{
   grid-area: carte;
   border: solid green 2px;
@@ -45,6 +49,12 @@ header{
 }
 #nap1{
   grid-area: nap1;
+}
+
+#text{
+  grid-area: t;
+  width: 400px;
+  border: solid black 2px;
 }
 
 #m1{
