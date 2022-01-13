@@ -239,8 +239,8 @@ Promise.all([
   napo.on("click", function () {
     var texte = `<h3>Napoléon</h3>
           <p>(1769-1821)</p>
-          <p><b>Emplacement</b>: place du Châtelet </p>
-          <img src="../../img/monuments/Austerlitz2.jpg" height="500px">`
+          <img src="../../img/portraits/1.png" width="100%">
+          `
     d3.select("#text").html(texte)
     
     var portraitCarte = d3.select(`#imgNap`)
