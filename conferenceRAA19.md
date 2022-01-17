@@ -78,6 +78,8 @@
 
   * Voir liste des gravures publiée pour l'ouvrage *Un mois de 1830 : ou mémorables journées de juillet et d'août*. Annoncées dans un prospectus. Cet ouvrage est publié par la maison d'édition Bulla.
 
+  * Conclusion: Adam très engagé dans la représentation du politique dans les années 1830, surtout pour ce qui a trait à la révolution de juillet. Une oeuvre gravée qui est publiée, vendue.
+
     
 
   ##### 	Bulla 
@@ -111,12 +113,10 @@
     [De l'armée d'Espagne](https://catalogue.bnf.fr/ark:/12148/cb41517131x) x
 
     Masséna 
-
+  
     Cambronne 
   
-  * Conclusion: Adam très engagé dans la représentation du politique dans les années 1830, surtout pour ce qui a trait à la révolution de juillet. Une oeuvre gravée qui est publiée, vendue.
-  
-  
+    
   
   ##### 	Choix des généraux vs une production publiée. 
   
@@ -132,7 +132,7 @@
   - 2e édition de la carte*
 - monuments (Béatrice)
 
-​		Les deux monuments présents sur la carte, tous deux à Paris, participent à l'iconogrpahie militaire de la carte dans son ensemble, voire à la pénétration d'un discours militaire dans le territoire. Les deux monuments on été commandés par Napoléon pour commémorer des événements militaires, qui sont visibles sur les monuments en question, et ils sont à nouveaux visibles dans leur représentation sur la carte.
+​		Les deux monuments présents sur la carte, tous deux à Paris, participent à l'iconogrpahie militaire de la carte dans son ensemble, voire à la pénétration d'un discours militaire dans le territoire. La période chronologique représentée par la carte est aussi conservée, Les deux monuments on été commandés par Napoléon pour commémorer des événements militaires, qui sont visibles sur les monuments en question, et ils sont à nouveaux visibles dans leur représentation sur la carte.
 
 ##### Colonne d'Austerlitz
 
