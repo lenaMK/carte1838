@@ -1,5 +1,6 @@
 body{
   padding: 50px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 header{
   padding-top: 50px;
@@ -122,4 +123,10 @@ header{
 }
 #p21 {
   grid-area: p21;
+}
+
+.ref {
+  font-size: smaller;
+  color: darkslategray
+
 }

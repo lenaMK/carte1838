@@ -144,14 +144,30 @@ function map(geojson){
 console.time('json');
 console.time('projection');
 
+function formatReference(refJSON){
+  var refComplete = refJSON.split(".")
+
+  var lien = refJSON.replace(refComplete[0],'').replace(refComplete[1],'').replace(refComplete[2],'').replace(refComplete[3],'').replace(refComplete[4],'').replace('..... ', '')
+
+  var ref = `${refComplete[0]}.
+            <i>${refComplete[1]}</i>.
+            ${refComplete[2]}.
+            ${refComplete[3]}.
+            ${refComplete[4]}.
+            <a href=${lien} target="_blank">Source</a>`
+  return ref
+}
 
 function formatInfo(json){
+ 
+  
+  var ref = formatReference(json.Reference)
 
-  console.log(json)
   var text = `<h3>${json.Nom}</h3>
               <p>(${json.Naissance}-${json.Mort})</p>
               
               <img src="../../img/portraits/${json.Id}.jpg" height="300px">
+              <p class="ref">${ref}</p>
               <p><b>Statut</b>: ${json.Statut}</p>
               <p><b>Cause de mort</b>: ${json.CauseMort}</p>
               <p><b>Mort à la guerre</b>: ${json.MortGuerre}</p>
@@ -160,8 +176,7 @@ function formatInfo(json){
               <p><b>Département d'origine</b>: ${json.Departement}</p>
               <p><b>Bataille représentée</b>: ${json.BataillePortrait}</p>
               <p><b>Légion d'honneur</b>: ${json.Legion}</p>
-              <p><b>Trahison</b>: ${json.Trahison}</p>
-              <p><b>Cause trahison</b>: ${json.trahisonCause}</p>
+              <p><b>Ralliement aux Bourbons en 1815</b>: ${json.trahisonCause}</p>
               `
 
   return text;
@@ -170,9 +185,9 @@ function formatInfo(json){
 
 Promise.all([
   d3.json('../../data/departements-version-simplifiee.geojson'),
-  d3.csv('../../data/DonneesGeneraux1.csv')
+  d3.csv('../../data/DonneesGeneraux-final.csv')
 ]).then(([geojson, data]) => {
-
+  console.log(data)
   data = data.sort((a, b) => {
     return a.Id - b.Id;
   })
@@ -237,9 +252,13 @@ Promise.all([
 
   var napo = d3.select('#nap1')
   napo.on("click", function () {
+
+    var ref = formatReference(data[0].Reference)
+    console.log(ref)
     var texte = `<h3>Napoléon</h3>
           <p>(1769-1821)</p>
           <img src="../../img/portraits/1.png" width="100%">
+          <p class="ref">${ref}</p>
           `
     d3.select("#text").html(texte)
     
@@ -250,7 +269,6 @@ Promise.all([
 
   //vide la zone de texte
   d3.select('#text').on("click", function(d) {
-    console.log("on vide la zone de texte")
     d3.select('#text').html("")
   })
 
