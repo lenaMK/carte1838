@@ -211,9 +211,11 @@ Promise.all([
       var texte = formatInfo(personne);
       d3.select("#text").html(texte)
 
-      d3.select(`#dpt${personne.NumDpt}`)
-        .style('fill', 'yellow')
-      //console.log(personne)
+      var dpt = d3.select(`#dpt${personne.NumDpt}`)
+      if (personne.NumDpt == '000')
+        dpt.classed("inconnuActif", !dpt.classed("inconnuActif"))
+      else 
+        dpt.classed("dptActif", !dpt.classed("dptActif"))
 
       var portraitCarte = d3.select(`#img${personne.Id}`)
       portraitCarte.classed("invisible", !portraitCarte.classed("invisible"))
@@ -256,6 +258,10 @@ Promise.all([
   var napo = d3.select('#nap1')
   napo.on("click", function () {
 
+    var dpt = d3.select(`#dpt2A`)
+    dpt.classed("dptActif", !dpt.classed("dptActif"));
+
+    
     var ref = formatReference(data[0].Reference)
     console.log(ref)
     var texte = `<h3>Napoléon</h3>
