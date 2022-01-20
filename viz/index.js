@@ -101,7 +101,7 @@ function map(geojson){
   projection(geojson);
 
   svg.append("image")
-  .attr("xlink:href", "../../img/fondCarte1838.png")
+  .attr("xlink:href", "../img/fondCarte1838.png")
   .attr("x", -90)
   .attr("y", -50)
   .attr("width", width)
@@ -166,7 +166,7 @@ function formatInfo(json){
   var text = `<h3>${json.Nom}</h3>
               <p>(${json.Naissance}-${json.Mort})</p>
               
-              <img src="../../img/portraits/${json.Id}.jpg" height="300px">
+              <img src="../img/portraits/${json.Id}.jpg" height="300px">
               <p class="ref">${ref}</p>
               <p><b>Statut</b>: ${json.Statut}</p>
               <p><b>Cause de mort</b>: ${json.CauseMort}</p>
@@ -184,8 +184,8 @@ function formatInfo(json){
 
 
 Promise.all([
-  d3.json('../../data/departements-version-simplifiee.geojson'),
-  d3.csv('../../data/DonneesGeneraux-final.csv')
+  d3.json('../data/departements-version-simplifiee.geojson'),
+  d3.csv('../data/DonneesGeneraux-final.csv')
 ]).then(([geojson, data]) => {
   console.log(data)
   data = data.sort((a, b) => {
@@ -231,7 +231,7 @@ Promise.all([
           <p>1810</p>
           <p><b>Architectes</b>: Jean-Baptiste Lepère, Jacques Gondouin </p>
           <p><b>Emplacement</b>: place Vendôme </p>
-          <img src="../../img/monuments/Austerlitz2.jpg" height="500px">`
+          <img src="../img/monuments/Austerlitz2.jpg" height="500px">`
     d3.select("#text").html(texte)
     //console.log(personne)*/
 
@@ -246,7 +246,7 @@ Promise.all([
           <p>1808</p>
           <p><b>Sculpteurs</b>: Louis-Simon Boizot, Henri-Alfred Jacquemart  </p>
           <p><b>Emplacement</b>: place du Châtelet </p>
-          <img src="../../img/monuments/Austerlitz2.jpg" height="500px">`
+          <img src="../img/monuments/Austerlitz2.jpg" height="500px">`
     d3.select("#text").html(texte)
     
     var portraitCarte = d3.select(`#imgM2`)
@@ -266,7 +266,7 @@ Promise.all([
     console.log(ref)
     var texte = `<h3>Napoléon</h3>
           <p>(1769-1821)</p>
-          <img src="../../img/portraits/1.png" width="100%">
+          <img src="../img/portraits/1.png" width="100%">
           <p class="ref">${ref}</p>
           `
     d3.select("#text").html(texte)
