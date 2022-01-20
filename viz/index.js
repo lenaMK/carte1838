@@ -115,7 +115,8 @@ function map(geojson){
     .enter().append("path")
     .attr("d", path)
     .attr('fill', 'transparent') /*d => color(index[d.properties.code].length) */
-    .attr('stroke', 'black')/*
+    .attr('stroke', 'black')
+    .attr("id", (d => ("dpt"+d.properties.code)))/*
     .on("mouseover", handleMouseOver)
     .on("mouseout", handleMouseOut)
     .on("click", handleClick);*/
@@ -130,7 +131,6 @@ function map(geojson){
       .attr('transform', function(d) {
           return "translate(" + path.centroid(d) + ")";
       })
-      .attr("id", (d => ("dpt"+d.properties.code)))
       .style('text-anchor', 'middle')
       .style('font-size', '9px')
       .style('font-family', 'sans-serif')
@@ -174,7 +174,7 @@ function formatInfo(json){
               <p><b>Période mort</b>: ${json.PeriodeMort}</p>
               <p><b>Ville d'origine</b>: ${json.Ville}</p>
               <p><b>Département d'origine</b>: ${json.Departement}</p>
-              <p><b>Bataille représentée</b>: ${json.BataillePortrait}</p>
+              <p><b>Bataille/campagne représentée</b>: ${json.BataillePortrait}</p>
               <p><b>Légion d'honneur</b>: ${json.Legion}</p>
               <p><b>Ralliement aux Bourbons en 1815</b>: ${json.trahisonCause}</p>
               `
@@ -207,10 +207,15 @@ Promise.all([
     var zone = d3.select(`#p${personne.Id}`)
 
     zone.on("click", function () {
-
+      console.log(personne)
       var texte = formatInfo(personne);
       d3.select("#text").html(texte)
-      //console.log(personne)
+
+      var dpt = d3.select(`#dpt${personne.NumDpt}`)
+      if (personne.NumDpt == '000')
+        dpt.classed("inconnuActif", !dpt.classed("inconnuActif"))
+      else 
+        dpt.classed("dptActif", !dpt.classed("dptActif"))
 
       var portraitCarte = d3.select(`#img${personne.Id}`)
       portraitCarte.classed("invisible", !portraitCarte.classed("invisible"))
@@ -252,6 +257,10 @@ Promise.all([
 
   var napo = d3.select('#nap1')
   napo.on("click", function () {
+
+    var dpt = d3.select(`#dpt2A`)
+    dpt.classed("dptActif", !dpt.classed("dptActif"));
+
 
     var ref = formatReference(data[0].Reference)
     console.log(ref)

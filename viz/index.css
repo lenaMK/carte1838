@@ -37,6 +37,14 @@ header{
   visibility: hidden;
 }
 
+.dptActif {
+  fill: yellow;
+}
+
+.inconnuActif {
+  background-color: yellow;
+}
+
 #carte{
   grid-area: carte;
   border: solid green 2px;

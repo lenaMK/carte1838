@@ -4,8 +4,6 @@
 
 ### Introduction
 
-- Nos spécialités respectives et comment on les a jumelées. (Lena, Béatrice)
-
 - Présentation de la carte
 
   Carte de France physique et administrative. La France actuelle et ses anciens défenseurs. TARDIEU (Pierre Antoine). Paris, Binet, 1838. 520 x 645 mm.
@@ -14,11 +12,37 @@
 
   Carte départementale de la France encadrée d'une bordure représentant 20 généraux de la Révolution et de l'Empire, en plus de Napoléon. La colonne Vendôme et la colonne de la Fontaine du Chatelet sont également représentées de chaque côté de la carte, deux monuments commandés par Napoléon et érigés pendant l'Empire.
 
+  
+
+- Nos spécialités respectives et comment on les a jumelées. (Lena, Béatrice)
+
+  Un objet: jumeler nos spécialités pour analyser l'objet. Transparence sur notre méthode, qui est permise par le savoir faire de Lena*.
+
+  Historique: Lena qui a trouvé cette carte, m'en a parlé, on a travaillé dessus cet été.
+
+  L'idée de créer une visualisation interactive, pour mieux interagir avec la carte, pour faciliter la lecture de son iconographie.
+
+  Pour Lena, appliquer une méthode digitale à l'histoire de l'art.
+
 ### Méthode
 
 - Approche iconographique d'une carte/cartographie critique
-- carte comme trace d'une mentalité/d'une politique (Chapel), carte comme outil de représentation, de raisonnement
 - structuration de données et du savoir
+
+Métho carto:
+
+- Méthodologie de l'historien face à la carte: non pas l'information portée par la carte, mais pourquoi la carte est utilisée pour présenter cette information. 
+
+- carte comme trace d'une mentalité/d'une politique (Chapel), carte comme outil de représentation, de raisonnement
+
+> La carte que vous m'adressez est typique de productions "grand public", avec un territoire et beaucoup de vignettes. Dès la Renaissance, c'était la pratique dans la cartographie flamande, les vignettes représentant les villes, ou les habitants des différentes contrées en costumes. Au XIXe, les vignettes, cartouches décorés etc. montrent des monuments, des productions locales, des célébrités ... Montrer les maréchaux d'empire et Napoléon, c'est plus inattendu, surtout en pleine période monarchique. On peut cependant penser qu'une partie du public était intéressée par ces souvenirs glorieux, et après tout, Louis-Philippe lui-même tirait parti du prestige napoléonien, et avait par exemple appelé Soult aux affaires (figure de l'"illustre épée" selon l'expression). **Je ne vois pas de lien très direct entre la représentation des départements et l'iconographie. Le titre même relie les deux avec difficulté : France actuelle, anciens défenseurs ... (Napoléon et ses maréchaux ont surtout porté la guerre dans toute l'Europe plutôt que de défendre la France)**
+> Cette carte a surtout un usage décoratif, avec une petite nuance militante bonapartiste.
+
+
+
+
+
+
 
 ### Contexte
 
@@ -34,7 +58,7 @@
 
   Le règne de Louis-Philippe inaugure le retour de Napoléon dans une imagerie officielle, censurée pendant la Restauration. L'appui public de sentiments bonapartistes pousse Louis-Philippe à exploiter la gloire militaire de Napoléon à son propre profit politique. 
 
-  L'appropriation politique de l'image de Napoléon par LP est surtout évidente dans l'entreprise du Musée d'histoire de France de Versailles, chapeauté de très près par Louis-Philippe lui-même. Le musée ouvre ses portes en 1837, et présente un programme iconographique presque historiographique, dans différentes galeries à thèmes historiques. Des commandes sont faites pour meubler ces galeries, on forme une galerie des aquarelles avec les aquarelles des ingénieurs-géographes, et on dépoussière les Gros, Gérard et girodet pour les remettre en valeur et présenter une histoire de la France où la victoire est un fil conducteur, célébrant Révolution et Empire, plaçant la monarchie de Juillet en continuité avec ces régimes devenus maintenant nostalgiques. 
+  L'appropriation politique de l'image de Napoléon par LP est surtout évidente dans l'entreprise du Musée d'histoire nationale de France de Versailles, chapeauté de très près par Louis-Philippe lui-même. Le musée ouvre ses portes en 1837, et présente un programme iconographique presque historiographique, dans différentes galeries à thèmes historiques. Des commandes sont faites pour meubler ces galeries, on forme une galerie des aquarelles avec les aquarelles des ingénieurs-géographes, et on dépoussière les Gros, Gérard et girodet pour les remettre en valeur et présenter une histoire de la France où la victoire est un fil conducteur, célébrant Révolution et Empire, plaçant la monarchie de Juillet en continuité avec ces régimes devenus maintenant nostalgiques. 
 
   Années 1830, vétérans des guerres napoléoniennes insatisfaits.
 
@@ -44,22 +68,24 @@
 
   #### Estampes et contexte de publication de la carte (usage + infos bnf)
 
+  ** Rappel chronologique.
+
   La carte participe à cette imagerie militariste sous LP. La carte est publiée en 1838, et cet exemplaire est acheté en 1880, probalement par Roland Bonaparte, qui la laisse en don à la Société géogrpahique, de laquelle il a été directeur, en 1925, et après elle entre à la BNF parmi  les fonds de la SG. 
 
   
 
-  IMP::  La carte s'insère dans une inconogrpahie militariste et bonapartiste qui est diffusée grâce à l'estampe*, s'insère dans un réseau d'acteurs qui représentent cette histoire révolutionnaire et impériale, une histoire militaire qui est dans l'air du temps, pas seulement du fait des commandes de Louis-Philippe, mais aussi dans une représentation active pour la vente ou l'usage personnel, même en cartes.
+  IMP::  La carte s'insère dans une inconogrpahie militariste et bonapartiste qui est diffusée grâce à l'estampe*, s'insère dans un réseau d'acteurs qui représentent cette histoire révolutionnaire et impériale, une histoire militaire qui est dans l'air du temps, pas seulement du fait des commandes de Louis-Philippe, mais qu'on retrouve aussi dans une représentation active pour la vente ou l'usage personnel, même en cartes.
 
   
 
   ##### 	Binet
 
-  La carte est publiée par Binet éditeur, qui publie d'autres cartes dans les années 1830 et 1840, surtout des cartes départementales. 
+  La carte est publiée par Binet éditeur, qui publie d'autres cartes dans les années 1830 et 1840 seulement, surtout des cartes départementales. 
 
   La carte d'Algérie, curieuse pour sa représentation de portraits en vignette encore une fois.
 
   
-
+  
   ##### 	Adam
   
   La carte est tracée par Tardieu, et les portraits sont faits à partir de dessins de Victor Adam. 
@@ -68,7 +94,7 @@
   
   * élève de regnault et de Meynier, peintres d'histoire
   
-  * Commandes par louis-philippe (?) pour versailles de batailles de la révolution (expliquerait accent révolution) : 
+  * Commandes par louis-philippe pour versailles de batailles de la révolution (expliquerait accent révolution) : 
     *  [Bataille de Castiglione, 5 août 1796](http://collections.chateauversailles.fr/#263489de-2b99-4774-997b-cb4caf420875)
     *  [Bataille de Neuwied, 18 avril 1797](http://collections.chateauversailles.fr/#c174735c-a83e-4dae-a7f8-59dfd3d6203f)
     *  [Combat de Varoux, 27 novembre 1792](http://collections.chateauversailles.fr/#be6b2abe-2283-4439-ad57-f0e86fcc609b)
@@ -111,7 +137,7 @@
     [Augereau](https://catalogue.bnf.fr/ark:/12148/cb40314749f)
 
     [De l'armée d'Espagne](https://catalogue.bnf.fr/ark:/12148/cb41517131x) x
-
+  
     Masséna 
   
     Cambronne 
@@ -132,7 +158,7 @@
   - 2e édition de la carte*
 - monuments (Béatrice)
 
-​		Les deux monuments présents sur la carte, tous deux à Paris, participent à l'iconogrpahie militaire de la carte dans son ensemble, voire à la pénétration d'un discours militaire dans le territoire. La période chronologique représentée par la carte est aussi conservée, Les deux monuments on été commandés par Napoléon pour commémorer des événements militaires, qui sont visibles sur les monuments en question, et ils sont à nouveaux visibles dans leur représentation sur la carte.
+​		Les deux monuments présents sur la carte, tous deux à Paris, participent à l'iconogrpahie militaire de la carte dans son ensemble, voire à la pénétration d'un discours militaire sur la question du territoire. La période chronologique représentée par la carte est aussi conservée, Les deux monuments on été commandés par Napoléon pour commémorer des événements militaires, qui sont visibles sur les monuments en question, et ils sont à nouveaux visibles dans leur représentation sur la carte.
 
 ##### Colonne d'Austerlitz
 
@@ -176,15 +202,15 @@ Archtiectes sculpteurs: [Louis-Simon Boizot](https://fr.wikipedia.org/wiki/Louis
   3. Provenance par départements
   4. Rallié aux Bourbons 1815 pendant les Cent Jours
 
-  Autres qui seraient pertinents dans cette liste : maréchaux Oudinot, Soult et surtout Davout, meilleurs maréchaux de Napoléon et  généraux les plus compétents, Jourdan, Suchet et Bessières aussi (Bessières mort au combat aurait bien cadré ici). Murat aussi, d'habitude apprécié et reconnu, comme Bernadotte, même si les deux avaient leur agendas royaux. Généraux comme Saint-Hilaire, qui cadre très bien catégorie Foy/Lamarque/Lasalle. Absence remarquée de Davout et Murat.
+  Autres qui seraient pertinents dans cette liste : maréchaux Oudinot, Soult et surtout Davout, meilleurs maréchaux de Napoléon et  généraux les plus compétents, Jourdan, Suchet et Bessières aussi (Bessières mort au combat aurait bien cadré ici). Murat aussi, d'habitude apprécié et reconnu, comme Bernadotte, même si les deux avaient leur agendas royaux. Généraux comme Saint-Hilaire, qui cadre très bien catégorie Foy/Lamarque/Lasalle. Absence remarquée de Davout et Murat. Si l'importance ou la compétence des généraux choisis est un facteur du choix, des absences sont remarquées, notamment celles des maréchaux Oudinot, Soult et Davout, et si l'importance familiale est à prendre en compte à en juger par l'inclusion du prince Eugène, celle de Murat est aussi remarquable.
 
   
 
-  Le choix des portraits ne semble pas s'attribuer à la provenance des généraux, les départements qu'ils représentent se répétant à quelques occasions. Par ailleurs, la présence de Poniatowski, un prince étranger, écarte aussi un choix basé sur la provenance française. Si l'importance ou la compétence des généraux choisis est un facteur du choix, des absences sont remarquées, notamment celles des maréchaux Oudinot, Soult et Davout, et si l'importance familiale est à prendre en compte à en juger par l'inclusion du prince Eugène, celle de Murat est aussi remarquable. On pourrait croire ainsi que le statut du général au moment des Cents Jours pourrait jouer sur la réputation admise pour ce palmarès, mais la présence de Mortier, Masséna, de Berthier et d'Augereau est alors inexplicable.
+  Le choix des portraits ne semble pas s'attribuer à la provenance des généraux, les départements qu'ils représentent se répétant à quelques occasions. Quelque chose qu'on a regardé dès le départ, on espérait que les portrats soient en lien direct avec la carte. Par ailleurs, la présence de Poniatowski, un prince étranger, écarte aussi un choix basé sur la provenance française.  On pourrait croire ainsi que le statut du général au moment des Cents Jours pourrait jouer sur la réputation admise pour ce palmarès, mais la présence de Mortier, Masséna, de Berthier et d'Augereau est alors inexplicable.
 
   Le palmarès semble aussi mettre l'accent sur la mort au combat, à en croire par la présence de plusieurs généraux révolutionnaires. La parité entre généraux révolutionnaires et généraux d'Empire pourrait aussi être observée. 
 
-  La question de la façon dont il sont ordonnés: pas par âge, ni date de naissance ou de mort, ni par campagnes respectives (généraux révolutionnaires ne sont pas ensemble), ni par type de mort.
+  La question de la façon dont il sont ordonnés: pas par âge, ni date de naissance ou de mort, ni par campagnes respectives (généraux révolutionnaires ne sont pas ensemble), ni par type de mort (les mprts au comnat ne sont pas ensembles, même si les deux défenestrations sont côte à côte) Lannes et Eugène encadrent Napoléon, mais autour...
 
   Pour ce qui est des batailles représentées par les monuments, à savoir Austerlitz (1805), puis Dantzig (1807), Ulm (1805), Marengo (1801), Pyramides (1798) et Lodi (1796), on pourrait avoir envie de dire que tous les généraux ont participé au moins à une de ces batailles :
 
@@ -228,7 +254,7 @@ Archtiectes sculpteurs: [Louis-Simon Boizot](https://fr.wikipedia.org/wiki/Louis
 
   Augereau -Lodi
 
-  Dans tous les cas, le choix des généraux à représenter reste énigmatique. Pourrait-il être attaché à un document, pamphlet, ou livre d'histoire publié dans les années de la réalistion de la carte, ou est-il simplement le fruit des inclinations personnelles de l'auteur? 
+  Dans tous les cas, le choix des généraux à représenter reste énigmatique.  est-il simplement le fruit des inclinations personnelles de l'auteur? 
 
   
 
@@ -236,9 +262,9 @@ Archtiectes sculpteurs: [Louis-Simon Boizot](https://fr.wikipedia.org/wiki/Louis
 
 Une iconogrpahie qui ne reprend pas de motifs connus tels que ceux vus dans des portraits officiels. Même si certains reprennent une icnogrpahie spécifique associée à un personnage, les potraits semblent être originaux, pas copiés sur des modèles.
 
-Choix pour chaque bonhomme d'un ou deux portraits de plein pied dont la chronologie soit coïncide avec la carte ou n'est pas trop éloignée, aussi souvent des portraits commandés par LP.
+Choix pour chaque bonhomme d'un ou deux portraits de plein pied dont la chronologie soit coïncide avec la carte ou n'est pas trop éloignée, aussi souvent des portraits commandés par LP. Pour faire le parallèle avec le portrait de la carte.
 
-Daumesnil, pas vraiment d'iconographie avant 1880's.
+Daumesnil, pas vraiment d'iconographie avant 1880's. Un choix étrange. La seule image des années 1830 que j'ai pu trouver.
 
 Des exemples de comparaison iconographique.
 
@@ -248,7 +274,7 @@ Symbolisme: code Napoléon, appui des arts, Sphinx, pyramides, laurier, canon, r
 
 Répétition de ce qui se passe dans la carte, dans les autres portraits aussi, rappel d'actions de Napoléon sur le territoire de la France, mais aussi sur le territoire en général.
 
-Il s'Agit aussi d'un portrait original, même si Napoléon équestre il y en plusieurs.
+Il s'agit aussi d'un portrait original, même si Napoléon équestre il y en plusieurs.
 
 ###### Lannes
 
@@ -313,6 +339,8 @@ Marceau est aussi mort au combat, très tôt aussi, 1796. Altenkirchen.
 #### Regard d'ensemble
 
 - Présentation de la visualisation. (Lena)
+
+  ** Les informations que l'on a rassemblées sur le choix des généraux, ont les a mises ici pour mieux saisir ce qui distinguerait chaque personnage.
 
 ### Conclusions?
 
