@@ -231,7 +231,8 @@ Promise.all([
           <p>1810</p>
           <p><b>Architectes</b>: Jean-Baptiste Lepère, Jacques Gondouin </p>
           <p><b>Emplacement</b>: place Vendôme </p>
-          <img src="../img/monuments/Austerlitz2.jpg" height="500px">`
+          <img src="../img/monuments/Austerlitz2.jpg" height="500px">
+          <p class="ref">Jean-Baptiste Lepère, Jacques Gondouin (architectes), Pierre-Nolasque Bergeret, François Mazois et Benjamin Zix (dessins). <i>Colonne d'Austerlitz</i>. 1810 [1873-1875]. Pierre et bronze, 44,3 m (hauteur), 3,60 m (diamètre). Paris, Place Vendôme. </p>`
     d3.select("#text").html(texte)
     //console.log(personne)*/
 
@@ -246,7 +247,8 @@ Promise.all([
           <p>1808</p>
           <p><b>Sculpteurs</b>: Louis-Simon Boizot, Henri-Alfred Jacquemart  </p>
           <p><b>Emplacement</b>: place du Châtelet </p>
-          <img src="../img/monuments/Austerlitz2.jpg" height="500px">`
+          <img src="../img/monuments/Victoire2.jpg" height="500px">
+          <p class="ref">François-Jean Bralle (ingénieur), Louis-Simon Boizot et Henri-Alfred Jacquemart (sculpteurs). <i>Fontaine de la Victoire</i>. 1808 [1858]. Pierre et Plomb, 18 m (hauteur). Paris, Place du Châtelet.</p>`
     d3.select("#text").html(texte)
     
     var portraitCarte = d3.select(`#imgM2`)
