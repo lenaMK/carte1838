@@ -18,5 +18,4 @@ La recherche effectuée est en ligne sur [Zotero](https://www.zotero.org/groups/
 
 Le code est disponible sur [Github](https://github.com/lenaMK/carte1838).
 
-Pour citer ce travail: 
-Denis, Béatrice et Lena Krause (2022). « *La France actuelle et ses anciens défenseurs* (1838). Cartographie et iconographie militariste sous Louis-Philippe ». Conférences RAA19, Montréal, 20 janvier 2022. [Accès en ligne](https://lenamk.site/carte1838/)
+**Pour citer ce travail**: Denis, Béatrice et Lena Krause (2022). « *La France actuelle et ses anciens défenseurs* (1838). Cartographie et iconographie militariste sous Louis-Philippe ». Conférences RAA19, Montréal, 20 janvier 2022. [Accès en ligne](https://lenamk.site/carte1838/)
