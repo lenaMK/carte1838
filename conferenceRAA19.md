@@ -27,8 +27,22 @@
 ### Méthode
 
 - Approche iconographique d'une carte/cartographie critique
-- carte comme trace d'une mentalité/d'une politique (Chapel), carte comme outil de représentation, de raisonnement
 - structuration de données et du savoir
+
+Métho carto:
+
+- Méthodologie de l'historien face à la carte: non pas l'information portée par la carte, mais pourquoi la carte est utilisée pour présenter cette information. 
+
+- carte comme trace d'une mentalité/d'une politique (Chapel), carte comme outil de représentation, de raisonnement
+
+> La carte que vous m'adressez est typique de productions "grand public", avec un territoire et beaucoup de vignettes. Dès la Renaissance, c'était la pratique dans la cartographie flamande, les vignettes représentant les villes, ou les habitants des différentes contrées en costumes. Au XIXe, les vignettes, cartouches décorés etc. montrent des monuments, des productions locales, des célébrités ... Montrer les maréchaux d'empire et Napoléon, c'est plus inattendu, surtout en pleine période monarchique. On peut cependant penser qu'une partie du public était intéressée par ces souvenirs glorieux, et après tout, Louis-Philippe lui-même tirait parti du prestige napoléonien, et avait par exemple appelé Soult aux affaires (figure de l'"illustre épée" selon l'expression). **Je ne vois pas de lien très direct entre la représentation des départements et l'iconographie. Le titre même relie les deux avec difficulté : France actuelle, anciens défenseurs ... (Napoléon et ses maréchaux ont surtout porté la guerre dans toute l'Europe plutôt que de défendre la France)**
+> Cette carte a surtout un usage décoratif, avec une petite nuance militante bonapartiste.
+
+
+
+
+
+
 
 ### Contexte
 
