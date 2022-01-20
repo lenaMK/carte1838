@@ -207,7 +207,7 @@ Promise.all([
     var zone = d3.select(`#p${personne.Id}`)
 
     zone.on("click", function () {
-
+      console.log(personne)
       var texte = formatInfo(personne);
       d3.select("#text").html(texte)
 
@@ -261,7 +261,7 @@ Promise.all([
     var dpt = d3.select(`#dpt2A`)
     dpt.classed("dptActif", !dpt.classed("dptActif"));
 
-    
+
     var ref = formatReference(data[0].Reference)
     console.log(ref)
     var texte = `<h3>Napoléon</h3>
