@@ -536,5 +536,15 @@ Carte physique et administrative?
 
 ** Les informations que l'on a rassemblées sur le choix des généraux, ont les a mises ici pour mieux saisir ce qui distinguerait chaque personnage.
 
-## Conclusions?
+## Capsule
+
+##### Napoléon
+
+La carte dressée par Pierre Antoine Tardieu de laquelle est tirée ce portrait, est publiée en 1838 pendant la monarchie de juillet. Cette publication cadre avec le retour de la figure de Napoléon dans une imagerie officielle, figure qui avait été censurée pendant la Restauration. L'objet complet est constitué d'une carte départementale de la France encadrée par deux monuments à droite et à gauche, puis par une frise de 21 portraits, tous de généraux actifs pendant les guerres révolutionnaires et napoléoniennes, soit entre 1792 et 1815. Ce portrait de Napoléon, bien en évidence au centre des vignettes, au haut de la carte, est sous-titré Napoléon, empereur des Français. Plus large que les autres portraits, la carte fait ainsi trôner Napoléon sur la représentation cartogrpahique de la France, le présentant comme son ancien défenseur principal, lui et ce palmarès de figures militaires qui ont été ses contemporains.
+
+Le symbolisme des éléments entourant sa figure sont des rappels d'actions menées par Napoléon sur le territoire: outre le laurier et la palette et le pinceau, rappelant respectivement son titre d'empereur et son soutien des arts, on retrouve en effet canons et boulet à sa gauche, puis un Sphynx et une pyramide, rappelant la campagne d'Égypte menée par Napoléon entre 1798 et 1799. La colonne d'Austerlitz, représentée en arrière-plan à gauche, reconnaissable par la statue de Napoléon qui la juche, se retrouve répétée, elle qui figure plus bas à la gauche de la carte, l'encadrant de pair avec la colonne de la fontaine du chatelêt. Ces deux monuments ont été commandés par Napoléon pour célébrer des victoires militaires. Il n'est donc pas anodin qu'elles figurent ici dans une iconographie qui est essentiellement napoléonienne en plus d'être militariste, se retrouvant parmi les portraits de ces généraux de la préiode révolutionnaire et impériale. La colonne d'Austerlitz plus spécifiquement est ici dédoublée dans ce portrait de NApoléon, puisqu'elle commémore la victoire d'Austerlitz, du 2 décembre 1805, la victoire la plus éclatante du règne de Napoléon et historicisée comme telle.
+
+Par ailleurs, les pyramides se répètent aussi à d'autres endroits dans la carte, figurant dans les portraits des généraux Kléber et  Desaix, qui sont tous les deux représentés avec la campagne d'Égypte comme arrière-plan, une campagne dans laquelle ces deux généraux se sont démarqués.
+
+Comme pour les autres portraits des généraux, il s'agit  d'un portrait dont la composition semble être originale, et non copiée sur un modèle. Il existe par contre plusieurs portraits équestres de Napoléon. 
 
